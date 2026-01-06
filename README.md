@@ -48,6 +48,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nikhilj1002&theme=tokyonight&utcOffset=5.5" />
 </p>
 
+---
+## 🐍 My Contributions
+
+![Snake animation](https://raw.githubusercontent.com/nikhilj1002/nikhilj1002/output/github-contribution-grid-snake-dark.svg)
+
 
 
 ### 📫 Connect With Me
