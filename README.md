@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Jaiswal</h1>
-<h3 align="center">Computer Science Graduate | Software & Data Enthusiast</h3>
+<h3 align="center">AI Engineer | Software & Data Enthusiast</h3>
 
 ---
 
